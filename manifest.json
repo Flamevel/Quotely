@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "Quotely",
+    "version": "1.0",
+    "description": "A clean and modern Extension that displays inspirational quotes. Made by @Flamevel",
+    "permissions": ["storage", "sidePanel"],
+    "background": {
+        "service_worker": "src/scripts/background.js"
+    },
+    "action": {
+        "default_title": "Quotely"
+    },
+    "side_panel": {
+        "default_path": "src/pages/main.html"
+    },
+    "icons": {
+        "16": "assets/favicons/quotely-favicon-16x16.png",
+        "32": "assets/favicons/quotely-favicon-32x32.png",
+        "48": "assets/favicons/quotely-favicon-48x48.png",
+        "64": "assets/favicons/quotely-favicon-64x64.png",
+        "128": "assets/favicons/quotely-favicon-128x128.png"
+    }
+}

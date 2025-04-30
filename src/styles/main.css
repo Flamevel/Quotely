@@ -1,0 +1,134 @@
+:root {
+    --bg: #ffffff;
+    --text: #19213D;
+    --card-bg: #f9f9f9;
+    --accent: #19213D;
+    --border-color: #eee;
+    --danger: #c00;
+    --link: #19213D;
+}
+
+body.dark {
+    --bg: #3c3c3c;
+    --text: #ffffff;
+    --card-bg: #313131;
+    --accent: #ffffff;
+    --border-color: #313131;
+    --danger: #ff6b6b;
+    --link: #ffffff;
+}
+
+body.dark .icon {
+    filter: invert(1); 
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: var(--bg);
+    color: var(--text);
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100%;
+    padding: 24px;
+    box-sizing: border-box;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 24px;
+    cursor: pointer;
+    transition: filter 0.3s ease;
+}
+
+.icon {
+    width: 24px;
+    height: 24px;
+    object-fit: contain;
+}
+
+.quote-section {
+    text-align: center;
+}
+
+.quote {
+    font-size: 32px;
+    font-weight: 700;
+    margin: 0;
+}
+
+.author {
+    font-size: 16px;
+    font-weight: 400;
+    margin: 16px 0;
+}
+
+.meta {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    margin: 16px 0;
+}
+
+.meta-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 16px;
+}
+
+.actions {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    margin-top: 32px;
+}
+
+.actions button {
+    background: none;
+    border: none;
+    color: var(--text);
+    font-size: 12px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.hr-design {
+    margin-top: 24px;
+    background-color: var(--accent);
+}
+
+.quote-card {
+    border: 1px solid var(--border-color);
+    background: var(--card-bg);
+    color: var(--text);
+    padding: 12px;
+    margin-bottom: 10px;
+    border-radius: 12px;
+}
+
+.quote-card button {
+    background: none;
+    border: none;
+    color: var(--danger);
+    cursor: pointer;
+    margin-top: 8px;
+}  
+
+.footer {
+    margin-top: 24px;
+    text-align: center;
+    font-size: 12px;
+    font-weight: 200;
+}
+
+.footer a {
+    color: var(--link);
+    text-decoration: underline;
+}

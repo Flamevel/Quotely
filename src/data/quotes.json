@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 1,
+        "quote": "The best way to predict the future is to create it.",
+        "author": "Peter Drucker",
+        "quote_source": "Speech",
+        "quote_link": "https://en.wikiquote.org/wiki/Peter_Drucker",
+        "license": "Public Domain",
+        "category": "Business",
+        "year": 1960
+    },
+    {
+        "id": 2,
+        "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+        "author": "Winston Churchill",
+        "quote_source": "Speech",
+        "quote_link": "https://en.wikiquote.org/wiki/Winston_Churchill",
+        "license": "Public Domain",
+        "category": "Motivation",
+        "year": 1941
+    },
+    {
+        "id": 3,
+        "quote": "Do what you can, with what you have, where you are.",
+        "author": "Theodore Roosevelt",
+        "quote_source": "Speech",
+        "quote_link": "https://en.wikiquote.org/wiki/Theodore_Roosevelt",
+        "license": "Public Domain",
+        "category": "Self-Improvement",
+        "year": 1901
+    },
+    {
+        "id": 4,
+        "quote": "Knowledge speaks, but wisdom listens.",
+        "author": "Jimi Hendrix",
+        "quote_source": "Interview",
+        "quote_link": "https://en.wikiquote.org/wiki/Jimi_Hendrix",
+        "license": "Public Domain",
+        "category": "Wisdom",
+        "year": 1969
+    },
+    {
+        "id": 5,
+        "quote": "It is not length of life, but depth of life.",
+        "author": "Ralph Waldo Emerson",
+        "quote_source": "Essay",
+        "quote_link": "https://en.wikiquote.org/wiki/Ralph_Waldo_Emerson",
+        "license": "Public Domain",
+        "category": "Philosophy",
+        "year": 1841
+    },
+    {
+        "id": 6,
+        "quote": "An investment in knowledge pays the best interest.",
+        "author": "Benjamin Franklin",
+        "quote_source": "Poor Richard’s Almanack",
+        "quote_link": "https://en.wikiquote.org/wiki/Benjamin_Franklin",
+        "license": "Public Domain",
+        "category": "Education",
+        "year": 1758
+    },
+    {
+        "id": 7,
+        "quote": "Happiness depends upon ourselves.",
+        "author": "Aristotle",
+        "quote_source": "Ethics",
+        "quote_link": "https://en.wikiquote.org/wiki/Aristotle",
+        "license": "Public Domain",
+        "category": "Happiness",
+        "year": -350
+    },
+    {
+        "id": 8,
+        "quote": "It always seems impossible until it’s done.",
+        "author": "Nelson Mandela",
+        "quote_source": "Speech",
+        "quote_link": "https://en.wikiquote.org/wiki/Nelson_Mandela",
+        "license": "Public Domain",
+        "category": "Perseverance",
+        "year": 2001
+    },
+    {
+        "id": 9,
+        "quote": "Well begun is half done.",
+        "author": "Aristotle",
+        "quote_source": "Ethics",
+        "quote_link": "https://en.wikiquote.org/wiki/Aristotle",
+        "license": "Public Domain",
+        "category": "Wisdom",
+        "year": -350
+    },
+    {
+        "id": 10,
+        "quote": "Energy and persistence conquer all things.",
+        "author": "Benjamin Franklin",
+        "quote_source": "Letter",
+        "quote_link": "https://en.wikiquote.org/wiki/Benjamin_Franklin",
+        "license": "Public Domain",
+        "category": "Motivation",
+        "year": 1780
+    },
+    {
+        "id": 11,
+        "quote": "He who opens a school door, closes a prison.",
+        "author": "Victor Hugo",
+        "quote_source": "Speech",
+        "quote_link": "https://en.wikiquote.org/wiki/Victor_Hugo",
+        "license": "Public Domain",
+        "category": "Education",
+        "year": 1850
+    },
+    {
+        "id": 12,
+        "quote": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+        "author": "Mahatma Gandhi",
+        "quote_source": "Speech",
+        "quote_link": "https://en.wikiquote.org/wiki/Mahatma_Gandhi",
+        "license": "Public Domain",
+        "category": "Life",
+        "year": 1940
+    },
+    {
+        "id": 13,
+        "quote": "To avoid criticism, say nothing, do nothing, be nothing.",
+        "author": "Elbert Hubbard",
+        "quote_source": "Essay",
+        "quote_link": "https://en.wikiquote.org/wiki/Elbert_Hubbard",
+        "license": "Public Domain",
+        "category": "Success",
+        "year": 1901
+    },
+    {
+        "id": 14,
+        "quote": "The only thing we have to fear is fear itself.",
+        "author": "Franklin D. Roosevelt",
+        "quote_source": "Inaugural Address",
+        "quote_link": "https://en.wikiquote.org/wiki/Franklin_D._Roosevelt",
+        "license": "Public Domain",
+        "category": "Courage",
+        "year": 1933
+    },
+    {
+        "id": 15,
+        "quote": "Life without liberty is like a body without spirit.",
+        "author": "Kahlil Gibran",
+        "quote_source": "Essay",
+        "quote_link": "https://en.wikiquote.org/wiki/Kahlil_Gibran",
+        "license": "Public Domain",
+        "category": "Freedom",
+        "year": 1923
+    },
+    {
+        "id": 16,
+        "quote": "To improve is to change; to be perfect is to change often.",
+        "author": "Winston Churchill",
+        "quote_source": "Speech",
+        "quote_link": "https://en.wikiquote.org/wiki/Winston_Churchill",
+        "license": "Public Domain",
+        "category": "Self-Improvement",
+        "year": 1942
+    },
+    {
+        "id": 17,
+        "quote": "A fool thinks himself to be wise, but a wise man knows himself to be a fool.",
+        "author": "William Shakespeare",
+        "quote_source": "As You Like It",
+        "quote_link": "https://en.wikiquote.org/wiki/William_Shakespeare",
+        "license": "Public Domain",
+        "category": "Wisdom",
+        "year": 1599
+    },
+    {
+        "id": 18,
+        "quote": "The only true wisdom is in knowing you know nothing.",
+        "author": "Socrates",
+        "quote_source": "Philosophy",
+        "quote_link": "https://en.wikiquote.org/wiki/Socrates",
+        "license": "Public Domain",
+        "category": "Philosophy",
+        "year": -400
+    },
+    {
+        "id": 19,
+        "quote": "Education is the most powerful weapon which you can use to change the world.",
+        "author": "Nelson Mandela",
+        "quote_source": "Speech",
+        "quote_link": "https://en.wikiquote.org/wiki/Nelson_Mandela",
+        "license": "Public Domain",
+        "category": "Education",
+        "year": 2003
+    },
+    {
+        "id": 20,
+        "quote": "All that we are is the result of what we have thought.",
+        "author": "Buddha",
+        "quote_source": "Dhammapada",
+        "quote_link": "https://en.wikiquote.org/wiki/Gautama_Buddha",
+        "license": "Public Domain",
+        "category": "Mindfulness",
+        "year": -500
+    },
+    {
+        "id": 21,
+        "quote": "Happiness is not something ready made. It comes from your own actions.",
+        "author": "Dalai Lama",
+        "quote_source": "Speech",
+        "quote_link": "https://en.wikiquote.org/wiki/Dalai_Lama",
+        "license": "Public Domain",
+        "category": "Happiness",
+        "year": 2000
+    },
+    {
+        "id": 22,
+        "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+        "author": "Buddha",
+        "quote_source": "Dhammapada",
+        "quote_link": "https://en.wikiquote.org/wiki/Gautama_Buddha",
+        "license": "Public Domain",
+        "category": "Mindfulness",
+        "year": -500
+    },
+    {
+        "id": 23,
+        "quote": "The journey of a thousand miles begins with one step.",
+        "author": "Lao Tzu",
+        "quote_source": "Tao Te Ching",
+        "quote_link": "https://en.wikiquote.org/wiki/Laozi",
+        "license": "Public Domain",
+        "category": "Perseverance",
+        "year": -600
+    },
+    {
+        "id": 24,
+        "quote": "We must not allow other people’s limited perceptions to define us.",
+        "author": "Virginia Satir",
+        "quote_source": "Book",
+        "quote_link": "https://en.wikiquote.org/wiki/Virginia_Satir",
+        "license": "Public Domain",
+        "category": "Self-Empowerment",
+        "year": 1970
+    },
+    {
+        "id": 25,
+        "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+        "author": "Franklin D. Roosevelt",
+        "quote_source": "Speech",
+        "quote_link": "https://en.wikiquote.org/wiki/Franklin_D._Roosevelt",
+        "license": "Public Domain",
+        "category": "Motivation",
+        "year": 1945
+    },
+    {
+        "id": 26,
+        "quote": "Nothing great was ever achieved without enthusiasm.",
+        "author": "Ralph Waldo Emerson",
+        "quote_source": "Essay",
+        "quote_link": "https://en.wikiquote.org/wiki/Ralph_Waldo_Emerson",
+        "license": "Public Domain",
+        "category": "Success",
+        "year": 1841
+    },
+    {
+        "id": 27,
+        "quote": "That which does not kill us makes us stronger.",
+        "author": "Friedrich Nietzsche",
+        "quote_source": "Twilight of the Idols",
+        "quote_link": "https://en.wikiquote.org/wiki/Friedrich_Nietzsche",
+        "license": "Public Domain",
+        "category": "Strength",
+        "year": 1888
+    },
+    {
+        "id": 28,
+        "quote": "The mind is everything. What you think you become.",
+        "author": "Buddha",
+        "quote_source": "Dhammapada",
+        "quote_link": "https://en.wikiquote.org/wiki/Gautama_Buddha",
+        "license": "Public Domain",
+        "category": "Self-Improvement",
+        "year": -500
+    },
+    {
+        "id": 29,
+        "quote": "Strive not to be a success, but rather to be of value.",
+        "author": "Albert Einstein",
+        "quote_source": "Letter",
+        "quote_link": "https://en.wikiquote.org/wiki/Albert_Einstein",
+        "license": "Public Domain",
+        "category": "Success",
+        "year": 1940
+    },
+    {
+        "id": 30,
+        "quote": "Act as if what you do makes a difference. It does.",
+        "author": "William James",
+        "quote_source": "Philosophy",
+        "quote_link": "https://en.wikiquote.org/wiki/William_James",
+        "license": "Public Domain",
+        "category": "Inspiration",
+        "year": 1890
+    },
+    {
+        "id": 31,
+        "quote": "Dreams come true one day.",
+        "author": "Flamevel",
+        "quote_source": "Thinking",
+        "quote_link": "https://github.com/Flamevel",
+        "license": "Public Domain",
+        "category": "Motivation",
+        "year": 2025
+    },
+    {
+        "id": 32,
+        "quote": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt",
+        "quote_source": "Speech",
+        "quote_link": "https://en.wikiquote.org/wiki/Eleanor_Roosevelt",
+        "license": "Public Domain",
+        "category": "Dreams",
+        "year": 1950
+    },
+    {
+        "id": 33,
+        "quote": "Quality is not an act, it is a habit.",
+        "author": "Aristotle",
+        "quote_source": "Philosophy",
+        "quote_link": "https://en.wikiquote.org/wiki/Aristotle",
+        "license": "Public Domain",
+        "category": "Self-Improvement",
+        "year": -300
+    },
+    {
+        "id": 34,
+        "quote": "It always seems impossible until it's done.",
+        "author": "Nelson Mandela",
+        "quote_source": "Speech",
+        "quote_link": "https://en.wikiquote.org/wiki/Nelson_Mandela",
+        "license": "Public Domain",
+        "category": "Perseverance",
+        "year": 2001
+    },
+    {
+        "id": 35,
+        "quote": "The best revenge is massive success.",
+        "author": "Frank Sinatra",
+        "quote_source": "Interview",
+        "quote_link": "https://en.wikiquote.org/wiki/Frank_Sinatra",
+        "license": "Public Domain",
+        "category": "Success",
+        "year": 1969
+    },
+    {
+        "id": 36,
+        "quote": "Don't cry because it's over, smile because it happened.",
+        "author": "Dr. Seuss",
+        "quote_source": "Book",
+        "quote_link": "https://en.wikiquote.org/wiki/Dr._Seuss",
+        "license": "Public Domain",
+        "category": "Happiness",
+        "year": 1950
+    },
+    {
+        "id": 37,
+        "quote": "To handle yourself, use your head; to handle others, use your heart.",
+        "author": "Eleanor Roosevelt",
+        "quote_source": "Speech",
+        "quote_link": "https://en.wikiquote.org/wiki/Eleanor_Roosevelt",
+        "license": "Public Domain",
+        "category": "Leadership",
+        "year": 1960
+    },
+    {
+        "id": 38,
+        "quote": "Your time is limited, so don’t waste it living someone else’s life.",
+        "author": "Steve Jobs",
+        "quote_source": "Stanford Commencement Address",
+        "quote_link": "https://news.stanford.edu/2005/06/14/jobs-061505/",
+        "license": "Public Domain",
+        "category": "Life",
+        "year": 2005
+    },
+    {
+        "id": 39,
+        "quote": "Do what you love and success will follow. Passion is the fuel behind a successful career.",
+        "author": "Meg Whitman",
+        "quote_source": "Interview",
+        "quote_link": "https://en.wikiquote.org/wiki/Meg_Whitman",
+        "license": "Public Domain",
+        "category": "Career",
+        "year": 2008
+    },
+    {
+        "id": 40,
+        "quote": "Everything has beauty, but not everyone sees it.",
+        "author": "Confucius",
+        "quote_source": "Philosophy",
+        "quote_link": "https://en.wikiquote.org/wiki/Confucius",
+        "license": "Public Domain",
+        "category": "Wisdom",
+        "year": -500
+    },
+    {
+        "id": 41,
+        "quote": "Nothing is impossible.",
+        "author": "Flamevel",
+        "quote_source": "Thinking",
+        "quote_link": "https://github.com/Flamevel",
+        "license": "Public Domain",
+        "category": "Motivation",
+        "year": 2025
+    },
+    {
+        "id": 42,
+        "quote": "A goal without a plan is just a wish.",
+        "author": "Antoine de Saint-Exupéry",
+        "quote_source": "Book",
+        "quote_link": "https://en.wikiquote.org/wiki/Antoine_de_Saint-Exupéry",
+        "license": "Public Domain",
+        "category": "Goal Setting",
+        "year": 1943
+    },
+    {
+        "id": 43,
+        "quote": "A journey is best measured in friends, rather than miles.",
+        "author": "Tim Cahill",
+        "quote_source": "Book",
+        "quote_link": "https://en.wikiquote.org/wiki/Tim_Cahill",
+        "license": "Public Domain",
+        "category": "Travel",
+        "year": 1995
+    },
+    {
+        "id": 44,
+        "quote": "Injustice anywhere is a threat to justice everywhere.",
+        "author": "Martin Luther King Jr.",
+        "quote_source": "Letter from Birmingham Jail",
+        "quote_link": "https://en.wikiquote.org/wiki/Martin_Luther_King_Jr.",
+        "license": "Public Domain",
+        "category": "Justice",
+        "year": 1963
+    },
+    {
+        "id": 45,
+        "quote": "Well done is better than well said.",
+        "author": "Benjamin Franklin",
+        "quote_source": "Poor Richard’s Almanack",
+        "quote_link": "https://en.wikiquote.org/wiki/Benjamin_Franklin",
+        "license": "Public Domain",
+        "category": "Action",
+        "year": 1737
+    },
+    {
+        "id": 46,
+        "quote": "You miss 100% of the shots you don’t take.",
+        "author": "Wayne Gretzky",
+        "quote_source": "Interview",
+        "quote_link": "https://en.wikiquote.org/wiki/Wayne_Gretzky",
+        "license": "Public Domain",
+        "category": "Motivation",
+        "year": 1983
+    },
+    {
+        "id": 47,
+        "quote": "When one door closes, another opens.",
+        "author": "Alexander Graham Bell",
+        "quote_source": "Speech",
+        "quote_link": "https://en.wikiquote.org/wiki/Alexander_Graham_Bell",
+        "license": "Public Domain",
+        "category": "Opportunity",
+        "year": 1910
+    },
+    {
+        "id": 48,
+        "quote": "Knowledge is power.",
+        "author": "Francis Bacon",
+        "quote_source": "Meditationes Sacrae",
+        "quote_link": "https://en.wikiquote.org/wiki/Francis_Bacon",
+        "license": "Public Domain",
+        "category": "Wisdom",
+        "year": 1597
+    },
+    {
+        "id": 49,
+        "quote": "Courage is resistance to fear, mastery of fear, not absence of fear.",
+        "author": "Mark Twain",
+        "quote_source": "Book",
+        "quote_link": "https://en.wikiquote.org/wiki/Mark_Twain",
+        "license": "Public Domain",
+        "category": "Courage",
+        "year": 1894
+    },
+    {
+        "id": 50,
+        "quote": "Dream big and dare to fail.",
+        "author": "Norman Vaughan",
+        "quote_source": "Interview",
+        "quote_link": "https://en.wikiquote.org/wiki/Norman_Vaughan",
+        "license": "Public Domain",
+        "category": "Dreams",
+        "year": 1997
+    },
+    {
+        "id": 51,
+        "quote": "Success is not the key to happiness. Happiness is the key to success.",
+        "author": "Albert Schweitzer",
+        "quote_source": "Speech",
+        "quote_link": "https://en.wikiquote.org/wiki/Albert_Schweitzer",
+        "license": "Public Domain",
+        "category": "Happiness",
+        "year": 1952
+    },
+    {
+        "id": 52,
+        "quote": "Success doesn’t come from what you do occasionally, it comes from what you do consistently.",
+        "author": "Marie Forleo",
+        "quote_source": "Speech",
+        "quote_link": "https://en.wikiquote.org/wiki/Marie_Forleo",
+        "license": "Public Domain",
+        "category": "Consistency",
+        "year": 2010
+    },
+    {
+        "id": 53,
+        "quote": "Turn your wounds into wisdom.",
+        "author": "Oprah Winfrey",
+        "quote_source": "Interview",
+        "quote_link": "https://en.wikiquote.org/wiki/Oprah_Winfrey",
+        "license": "Public Domain",
+        "category": "Wisdom",
+        "year": 2001
+    },
+    {
+        "id": 54,
+        "quote": "Success is the sum of small efforts, repeated day in and day out.",
+        "author": "Robert Collier",
+        "quote_source": "Book",
+        "quote_link": "https://en.wikiquote.org/wiki/Robert_Collier",
+        "license": "Public Domain",
+        "category": "Success",
+        "year": 1931
+    },
+    {
+        "id": 55,
+        "quote": "Success usually comes to those who are too busy to be looking for it.",
+        "author": "Henry David Thoreau",
+        "quote_source": "Book",
+        "quote_link": "https://en.wikiquote.org/wiki/Henry_David_Thoreau",
+        "license": "Public Domain",
+        "category": "Success",
+        "year": 1854
+    },
+    {
+        "id": 56,
+        "quote": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "quote_source": "Stanford Commencement Address",
+        "quote_link": "https://news.stanford.edu/2005/06/14/jobs-061505/",
+        "license": "Public Domain",
+        "category": "Career",
+        "year": 2005
+    },
+    {
+        "id": 57,
+        "quote": "Everything you’ve ever wanted is on the other side of fear.",
+        "author": "George Addair",
+        "quote_source": "Speech",
+        "quote_link": "https://en.wikiquote.org/wiki/George_Addair",
+        "license": "Public Domain",
+        "category": "Courage",
+        "year": 1900
+    },
+    {
+        "id": 58,
+        "quote": "The only impossible journey is the one you never begin.",
+        "author": "Tony Robbins",
+        "quote_source": "Speech",
+        "quote_link": "https://en.wikiquote.org/wiki/Tony_Robbins",
+        "license": "Public Domain",
+        "category": "Journey",
+        "year": 1991
+    },
+    {
+        "id": 59,
+        "quote": "Believe you can and you're halfway there.",
+        "author": "Theodore Roosevelt",
+        "quote_source": "Speech",
+        "quote_link": "https://en.wikiquote.org/wiki/Theodore_Roosevelt",
+        "license": "Public Domain",
+        "category": "Self-Improvement",
+        "year": 1910
+    },
+    {
+        "id": 60,
+        "quote": "Success is getting what you want. Happiness is wanting what you get.",
+        "author": "Dale Carnegie",
+        "quote_source": "Book",
+        "quote_link": "https://en.wikiquote.org/wiki/Dale_Carnegie",
+        "license": "Public Domain",
+        "category": "Happiness",
+        "year": 1948
+    },
+    {
+        "id": 61,
+        "quote": "You don’t have to be great to start, but you have to start to be great.",
+        "author": "Zig Ziglar",
+        "quote_source": "Speech",
+        "quote_link": "https://en.wikiquote.org/wiki/Zig_Ziglar",
+        "license": "Public Domain",
+        "category": "Start",
+        "year": 1975
+    },
+    {
+        "id": 62,
+        "quote": "Imagine what possible is.",
+        "author": "Flamevel",
+        "quote_source": "Thinking",
+        "quote_link": "https://github.com/Flamevel",
+        "license": "Public Domain",
+        "category": "Motivation",
+        "year": 2025
+    },
+    {
+        "id": 63,
+        "quote": "Do what you feel in your heart to be right – for you’ll be criticized anyway.",
+        "author": "Eleanor Roosevelt",
+        "quote_source": "Book",
+        "quote_link": "https://en.wikiquote.org/wiki/Eleanor_Roosevelt",
+        "license": "Public Domain",
+        "category": "Courage",
+        "year": 1960
+    },
+    {
+        "id": 64,
+        "quote": "It does not matter how slowly you go as long as you do not stop.",
+        "author": "Confucius",
+        "quote_source": "Philosophy",
+        "quote_link": "https://en.wikiquote.org/wiki/Confucius",
+        "license": "Public Domain",
+        "category": "Persistence",
+        "year": -500
+    },
+    {
+        "id": 65,
+        "quote": "Opportunities don't happen. You create them.",
+        "author": "Chris Grosser",
+        "quote_source": "Interview",
+        "quote_link": "https://en.wikiquote.org/wiki/Chris_Grosser",
+        "license": "Public Domain",
+        "category": "Success",
+        "year": 2010
+    },
+    {
+        "id": 66,
+        "quote": "If you want to lift yourself up, lift up someone else.",
+        "author": "Booker T. Washington",
+        "quote_source": "Speech",
+        "quote_link": "https://en.wikiquote.org/wiki/Booker_T._Washington",
+        "license": "Public Domain",
+        "category": "Empowerment",
+        "year": 1895
+    },
+    {
+        "id": 67,
+        "quote": "Nothing in life is to be feared, it is only to be understood.",
+        "author": "Marie Curie",
+        "quote_source": "Interview",
+        "quote_link": "https://en.wikiquote.org/wiki/Marie_Curie",
+        "license": "Public Domain",
+        "category": "Science",
+        "year": 1920
+    },
+    {
+        "id": 68,
+        "quote": "Tough times never last, but tough people do.",
+        "author": "Robert H. Schuller",
+        "quote_source": "Book",
+        "quote_link": "https://en.wikiquote.org/wiki/Robert_H._Schuller",
+        "license": "Public Domain",
+        "category": "Resilience",
+        "year": 1983
+    },
+    {
+        "id": 69,
+        "quote": "If you're going through hell, keep going.",
+        "author": "Winston Churchill",
+        "quote_source": "Speech",
+        "quote_link": "https://en.wikiquote.org/wiki/Winston_Churchill",
+        "license": "Public Domain",
+        "category": "Perseverance",
+        "year": 1940
+    },
+    {
+        "id": 70,
+        "quote": "Quality means doing it right when no one is looking.",
+        "author": "Henry Ford",
+        "quote_source": "Interview",
+        "quote_link": "https://en.wikiquote.org/wiki/Henry_Ford",
+        "license": "Public Domain",
+        "category": "Work Ethic",
+        "year": 1922
+    },
+    {
+        "id": 71,
+        "quote": "A journey of a thousand miles begins with a single step.",
+        "author": "Lao Tzu",
+        "quote_source": "Philosophy",
+        "quote_link": "https://en.wikiquote.org/wiki/Laozi",
+        "license": "Public Domain",
+        "category": "Perseverance",
+        "year": -500
+    },
+    {
+        "id": 72,
+        "quote": "Opportunities don't happen, you create them.",
+        "author": "Chris Grosser",
+        "quote_source": "Speech",
+        "quote_link": "https://en.wikiquote.org/wiki/Chris_Grosser",
+        "license": "Public Domain",
+        "category": "Opportunity",
+        "year": 2010
+    },
+    {
+        "id": 73,
+        "quote": "Do what you love and you will never work a day in your life.",
+        "author": "Confucius",
+        "quote_source": "Philosophy",
+        "quote_link": "https://en.wikiquote.org/wiki/Confucius",
+        "license": "Public Domain",
+        "category": "Career",
+        "year": -500
+    },
+    {
+        "id": 74,
+        "quote": "If opportunity doesn’t knock, build a door.",
+        "author": "Milton Berle",
+        "quote_source": "Speech",
+        "quote_link": "https://en.wikiquote.org/wiki/Milton_Berle",
+        "license": "Public Domain",
+        "category": "Opportunity",
+        "year": 1950    
+    },
+    {
+        "id": 75,
+        "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+        "author": "Aristotle",
+        "quote_source": "Philosophy",
+        "quote_link": "https://en.wikiquote.org/wiki/Aristotle",
+        "license": "Public Domain",
+        "category": "Success",
+        "year": -350
+    },
+    {
+        "id": 76,
+        "quote": "Life is really simple, but we insist on making it complicated.",
+        "author": "Confucius",
+        "quote_source": "Philosophy",
+        "quote_link": "https://en.wikiquote.org/wiki/Confucius",
+        "license": "Public Domain",
+        "category": "Simplicity",
+        "year": -500
+    },
+    {
+        "id": 77,
+        "quote": "Knowing yourself is the beginning of all wisdom.",
+        "author": "Aristotle",
+        "quote_source": "Philosophy",
+        "quote_link": "https://en.wikiquote.org/wiki/Aristotle",
+        "license": "Public Domain",
+        "category": "Self-Discovery",
+        "year": -350
+    },
+    {
+        "id": 78,
+        "quote": "You can't go back and change the beginning, but you can start where you are and change the ending.",
+        "author": "C.S. Lewis",
+        "quote_source": "Book",
+        "quote_link": "https://en.wikiquote.org/wiki/C.S._Lewis",
+        "license": "Public Domain",
+        "category": "Change",
+        "year": 1955
+    },
+    {
+        "id": 79,
+        "quote": "Hardships often prepare ordinary people for an extraordinary destiny.",
+        "author": "C.S. Lewis",
+        "quote_source": "Book",
+        "quote_link": "https://en.wikiquote.org/wiki/C.S._Lewis",
+        "license": "Public Domain",
+        "category": "Destiny",
+        "year": 1952
+    },
+    {
+        "id": 80,
+        "quote": "Do not wait to strike till the iron is hot, but make it hot by striking.",
+        "author": "William B. Sprague",
+        "quote_source": "Book",
+        "quote_link": "https://en.wikiquote.org/wiki/William_B._Sprague",
+        "license": "Public Domain",
+        "category": "Action",
+        "year": 1830
+    },
+    {
+        "id": 81,
+        "quote": "The secret of getting ahead is getting started.",
+        "author": "Mark Twain",
+        "quote_source": "Book",
+        "quote_link": "https://en.wikiquote.org/wiki/Mark_Twain",
+        "license": "Public Domain",
+        "category": "Success",
+        "year": 1885
+    },
+    {
+        "id": 82,
+        "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+        "author": "Ralph Waldo Emerson",
+        "quote_source": "Essay",
+        "quote_link": "https://en.wikiquote.org/wiki/Ralph_Waldo_Emerson",
+        "license": "Public Domain",
+        "category": "Innovation",
+        "year": 1836
+    },
+    {
+        "id": 83,
+        "quote": "Don’t watch the clock; do what it does. Keep going.",
+        "author": "Sam Levenson",
+        "quote_source": "Book",
+        "quote_link": "https://en.wikiquote.org/wiki/Sam_Levenson",
+        "license": "Public Domain",
+        "category": "Persistence",
+        "year": 1962
+    },
+    {
+        "id": 84,
+        "quote": "You are never too old to set another goal or to dream a new dream.",
+        "author": "C.S. Lewis",
+        "quote_source": "Book",
+        "quote_link": "https://en.wikiquote.org/wiki/C.S._Lewis",
+        "license": "Public Domain",
+        "category": "Dreams",
+        "year": 1960
+    },
+    {
+        "id": 85,
+        "quote": "The purpose of our lives is to be happy.",
+        "author": "Dalai Lama",
+        "quote_source": "Teachings",
+        "quote_link": "https://en.wikiquote.org/wiki/Dalai_Lama",
+        "license": "Public Domain",
+        "category": "Happiness",
+        "year": 1990
+    },
+    {
+        "id": 86,
+        "quote": "You must be the change you wish to see in the world.",
+        "author": "Mahatma Gandhi",
+        "quote_source": "Speech",
+        "quote_link": "https://en.wikiquote.org/wiki/Mahatma_Gandhi",
+        "license": "Public Domain",
+        "category": "Change",
+        "year": 1940
+    },
+    {
+        "id": 87,
+        "quote": "Do what is right, not what is easy nor what is popular.",
+        "author": "Roy T. Bennett",
+        "quote_source": "Book",
+        "quote_link": "https://en.wikiquote.org/wiki/Roy_T._Bennett",
+        "license": "Public Domain",
+        "category": "Integrity",
+        "year": 2017
+    },
+    {
+        "id": 88,
+        "quote": "Success is not the absence of failure; it’s the persistence through failure.",
+        "author": "Aisha Tyler",
+        "quote_source": "Interview",
+        "quote_link": "https://en.wikiquote.org/wiki/Aisha_Tyler",
+        "license": "Public Domain",
+        "category": "Persistence",
+        "year": 2010
+    },
+    {
+        "id": 89,
+        "quote": "Success is not how high you have climbed, but how you make a positive difference to the world.",
+        "author": "Roy T. Bennett",
+        "quote_source": "Book",
+        "quote_link": "https://en.wikiquote.org/wiki/Roy_T._Bennett",
+        "license": "Public Domain",
+        "category": "Success",
+        "year": 2016
+    },
+    {
+        "id": 90,
+        "quote": "The harder you work, the luckier you get.",
+        "author": "Gary Player",
+        "quote_source": "Interview",
+        "quote_link": "https://en.wikiquote.org/wiki/Gary_Player",
+        "license": "Public Domain",
+        "category": "Hard Work",
+        "year": 1960
+    },
+    {
+        "id": 91,
+        "quote": "Success is the result of preparation, hard work, and learning from failure.",
+        "author": "Colin Powell",
+        "quote_source": "Speech",
+        "quote_link": "https://en.wikiquote.org/wiki/Colin_Powell",
+        "license": "Public Domain",
+        "category": "Preparation",
+        "year": 1990
+    },
+    {
+        "id": 92,
+        "quote": "Success is not in what you have, but who you are.",
+        "author": "Bo Bennett",
+        "quote_source": "Book",
+        "quote_link": "https://en.wikiquote.org/wiki/Bo_Bennett",
+        "license": "Public Domain",
+        "category": "Success",
+        "year": 2009
+    },
+    {
+        "id": 93,
+        "quote": "Your time is limited, don't waste it living someone else's life.",
+        "author": "Steve Jobs",
+        "quote_source": "Speech",
+        "quote_link": "https://en.wikiquote.org/wiki/Steve_Jobs",
+        "license": "Public Domain",
+        "category": "Life",
+        "year": 2005
+    },
+    {
+        "id": 94,
+        "quote": "Life isn't about finding yourself. Life is about creating yourself.",
+        "author": "George Bernard Shaw",
+        "quote_source": "Play",
+        "quote_link": "https://en.wikiquote.org/wiki/George_Bernard_Shaw",
+        "license": "Public Domain",
+        "category": "Self-Discovery",
+        "year": 1903
+    },
+    {
+        "id": 95,
+        "quote": "You cannot teach a man anything; you can only help him find it within himself.",
+        "author": "Galileo Galilei",
+        "quote_source": "Letter",
+        "quote_link": "https://en.wikiquote.org/wiki/Galileo_Galilei",
+        "license": "Public Domain",
+        "category": "Education",
+        "year": 1610
+    },
+    {
+        "id": 96,
+        "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+        "author": "Ralph Waldo Emerson",
+        "quote_source": "Essay",
+        "quote_link": "https://en.wikiquote.org/wiki/Ralph_Waldo_Emerson",
+        "license": "Public Domain",
+        "category": "Inner Strength",
+        "year": 1841
+    },
+    {
+        "id": 97,
+        "quote": "Not everything that is faced can be changed, but nothing can be changed until it is faced.",
+        "author": "James Baldwin",
+        "quote_source": "Essay",
+        "quote_link": "https://en.wikiquote.org/wiki/James_Baldwin",
+        "license": "Public Domain",
+        "category": "Courage",
+        "year": 1962
+    },
+    {
+        "id": 98,
+        "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "author": "Winston Churchill",
+        "quote_source": "Speech",
+        "quote_link": "https://en.wikiquote.org/wiki/Winston_Churchill",
+        "license": "Public Domain",
+        "category": "Courage",
+        "year": 1941
+    },
+    {
+        "id": 99,
+        "quote": "Don’t wait. The time will never be just right.",
+        "author": "Napoleon Hill",
+        "quote_source": "Book",
+        "quote_link": "https://en.wikiquote.org/wiki/Napoleon_Hill",
+        "license": "Public Domain",
+        "category": "Action",
+        "year": 1937
+    },
+    {
+        "id": 100,
+        "quote": "A person who never made a mistake never tried anything new.",
+        "author": "Albert Einstein",
+        "quote_source": "Interview",
+        "quote_link": "https://en.wikiquote.org/wiki/Albert_Einstein",
+        "license": "Public Domain",
+        "category": "Innovation",
+        "year": 1921
+    }
+]
