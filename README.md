@@ -85,11 +85,12 @@ A: You can find the quotes in `src/data/quotes.json`.
 Have suggestions or found a bug? Open an issue on [GitHub](https://github.com/flamevel/quotely/issues).
 
 ## 👥 Community
-Join our community on Discord to discuss features, report issues, and get support:
+Join our community on Discord to discuss features, report issues, and get support or find more:
 
 <div align="left">
-  <a href="https://discord.gg/hTrvqqHA3g"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg" height="30"></a>
-  <a href="https://github.com/Flamevel"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" height="30"></a>
+  <a href="https://discord.gg/hTrvqqHA3g"><img src="assets/badges/DiscordBadge_Flamevel.png" height="30"></a>
+  <a href="https://youtube.com/@flamevel.official?si=R0VRAETqwqHKIfWJ"><img src="assets/badges/YouTubeBadge_Flamevel.png" height="30"></a>
+  <a href="https://github.com/Flamevel"><img src="assets/badges/GitHubBadge_Flamevel.png" height="30"></a>
 </div>
 
 ## ⚠️ Other
